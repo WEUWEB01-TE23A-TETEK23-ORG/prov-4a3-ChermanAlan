@@ -1,0 +1,62 @@
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+section {
+background-image: url(bilder/skogsbakgrund.png);
+height: 680px;
+background-repeat: no-repeat;
+background-size: 100%;
+width: 1450px;
+margin-left: 0px;
+}
+h1 {
+    color: #2C4C3B;
+}
+header {
+    background-color: #2C4C3B;
+    padding: 10px;
+    width: 1920px;
+    height: 125px;
+    
+}
+h4 {
+    color: rgb(73, 31, 31);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img {
+    margin-right: 120px;
+    width: 150px;
+}
+h2 {
+    padding-left: 200px;
+    margin-left: 600px;
+    margin-top: 35px;
+    color: white;
+
+}
+p, h1, h4{
+    margin-left: 50px;
+    
+}
+footer {
+    background-color: #2C4C3B;
+    color: white;
+    height: 125px;
+    
+}
+h3 {
+    width: 175px;
+    padding: 25px;
+}

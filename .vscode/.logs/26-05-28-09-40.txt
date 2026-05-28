@@ -1,0 +1,1535 @@
+26-05-28 09:40 Session started
+----------------------------------------
+09:40:11 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:40:52 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:40:53 000:000 > /* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+09:40:54 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/script.js
+----------------------------------------
+09:40:56 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:40:56 000:000 > !
+09:40:56 000:000 > <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+09:40:59 006:004 > f
+09:40:59 006:004 > fl
+09:41:00 006:005 > fli
+09:41:00 006:006 > flin
+09:41:00 006:007 > flink
+09:41:01 006:004 > <link rel="stylesheet" href="style.css">
+
+09:41:05 009:004 > d
+09:41:06 009:004 > dn
+09:41:06 009:005 > dna
+09:41:07 009:004 > <nav></nav>
+
+09:41:08 010:008 > m
+09:41:08 010:009 > ma
+09:41:08 010:010 > mak
+
+09:41:12 009:004 > f
+09:41:17 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:41:23 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:41:25 009:004 > ff
+09:41:41 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:41:43 009:004 > ffh
+09:41:43 009:005 > ffhe
+09:41:43 009:006 > ffhea
+09:41:45 009:004 > <header></header>
+09:41:54 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:41:55 010:007 > Hem Tälten Vandring Bad Restaurang Bokning English
+
+09:42:47 013:008 > d
+09:42:48 013:009 > di
+
+09:42:55 012:000 > d
+09:42:55 012:001 > di
+09:42:56 012:002 > div
+09:42:56 012:000 > <div></div>
+09:42:57 012:005 > c
+09:42:59 012:000 > cd
+09:43:00 012:001 > cdi
+09:43:00 012:002 > cdiv
+09:43:01 012:003 > cdivc
+09:43:01 012:004 > cdivc c
+09:43:01 012:005 > cdivc cl
+09:43:02 012:006 > cdivc cla
+09:43:07 012:004 > cdivc cla c
+09:43:07 012:005 > cdivc cla cl
+09:43:07 012:006 > cdivc cla cla
+09:43:07 012:007 > cdivc cla clas
+09:43:08 012:008 > cdivc cla class
+09:43:13 012:002 > cdivc cla class v
+09:43:14 012:000 > <div></div>
+09:43:21 012:005 >  c
+09:43:21 012:006 >  cl
+09:43:21 012:007 >  cla
+09:43:21 012:008 >  clas
+09:43:22 012:009 >  class
+09:43:22 012:005 > class=""
+09:43:23 012:012 > f
+09:43:25 012:012 > fm
+09:43:30 012:012 > fmf
+09:43:30 012:013 > fmfo
+09:43:30 012:014 > fmfor
+09:43:30 012:015 > fmfore
+09:43:31 012:016 > fmfores
+09:43:31 012:017 > fmforest
+09:43:42 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+09:43:45 011:007 > f
+09:43:46 011:007 > fi
+09:43:46 011:008 > fim
+09:43:47 011:007 > <img src="" alt="">
+09:43:49 011:017 > f
+09:43:50 011:017 > fv
+09:43:50 011:018 > fvi
+09:43:50 011:019 > fvil
+09:43:51 011:017 > fvilb
+09:43:51 011:018 > fvilbi
+09:43:52 011:017 > bilder/
+09:43:53 011:024 > logga-skog.png
+09:44:22 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+09:44:24 014:000 > h
+09:44:24 014:001 > h1
+09:44:25 014:000 > <h1></h1>
+09:44:27 014:004 > Välkommen till naturupplevelsen Skogsgläntan!
+09:44:38 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+09:44:38 015:000 > p
+09:44:39 015:000 > <p></p>
+09:44:43 015:003 > Upptäck lugnet i skogen!
+09:44:49 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+09:44:50 016:000 > p
+09:44:50 016:000 > <p></p>
+09:44:50 016:003 > Den 1 maj öppnar vi för sommarsäsongen.
+09:44:55 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+09:45:13 017:000 > f
+09:45:14 017:000 > f.
+09:45:22 017:001 > f.c
+09:45:23 017:002 > f.ci
+09:45:24 017:001 > f.cif
+09:45:24 017:002 > f.cifo
+09:45:24 017:003 > f.cifor
+09:45:24 017:004 > f.cifore
+09:45:24 017:005 > f.cifores
+09:45:24 017:006 > f.ciforest
+09:45:25 017:000 > <div class="forest"></div>
+09:45:26 017:000 > .forest
+09:45:28 017:006 > t
+
+09:45:29 018:000 > f
+
+09:45:45 016:001 > d
+09:45:47 016:001 > dp
+
+09:45:48 014:001 > d
+09:45:48 014:002 > di
+09:45:49 014:003 > div
+09:45:52 014:052 > divd
+09:45:52 014:053 > divdi
+09:45:52 014:054 > divdiv
+
+09:46:03 017:000 > h
+09:46:03 017:001 > h1
+09:46:03 017:000 > <h1></h1>
+
+09:46:10 015:001 > d
+09:46:11 015:002 > di
+09:46:11 015:003 > div
+09:46:12 015:031 > divd
+09:46:13 015:032 > divdi
+09:46:13 015:033 > divdiv
+09:46:19 017:000 > <h1></h1>
+09:46:23 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:46:24 017:004 > » Boka ditt tält nu!
+09:46:27 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:46:29 015:000 > f
+09:46:29 015:000 > ff
+09:46:33 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:46:36 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:46:40 015:000 > ffo
+09:46:40 015:000 > ffof
+09:46:40 015:001 > ffofo
+09:46:40 015:002 > ffofor
+09:46:41 015:003 > ffofore
+09:46:41 015:004 > ffofores
+09:46:41 015:005 > ffoforest
+09:46:41 015:006 > ffoforest.
+09:46:44 015:004 > ffoforest. s
+09:46:44 015:005 > ffoforest. st
+09:46:45 015:006 > ffoforest. st .
+09:46:45 015:008 > ffoforest. st . )
+09:46:48 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:46:49 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:46:55 015:008 > ffoforest. st . )´
+09:46:55 015:008 > ffoforest. st . )´´
+09:47:16 015:008 > ffoforest. st . )´´9
+09:47:27 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:47:29 015:008 > ffoforest. st . )´´9}
+09:47:30 015:009 > ffoforest. st . )´´9}≠
+09:47:31 015:008 > {}
+09:47:38 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:47:39 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:47:50 015:000 > €
+09:47:51 015:000 > €#
+
+09:47:54 016:000 > f
+09:47:54 016:000 > fb
+09:47:54 016:001 > fba
+09:47:56 016:000 > background-image: ;
+09:47:58 016:018 > f
+09:47:58 016:018 > fb
+09:47:58 016:019 > fbi
+09:48:00 016:018 > fbif
+09:48:00 016:019 > fbifd
+09:48:00 016:018 > fbifds
+09:48:00 016:019 > fbifdso
+09:48:02 016:017 > fbifdso s
+09:48:03 016:017 > fbifdso ss
+09:48:26 016:013 > fbifdso ssf
+09:48:26 016:012 > fbifdso ssfa
+09:48:27 016:000 > background-image: ;
+09:48:29 016:018 > b
+09:48:29 016:019 > bi
+09:48:30 016:018 > bid
+09:48:30 016:018 > bids
+09:48:36 016:019 > bidsr
+09:48:38 016:018 > bidsru
+09:48:38 016:019 > bidsrur
+09:48:38 016:020 > bidsrurl
+09:48:39 016:018 > url()
+09:48:39 016:022 > i
+09:48:39 016:023 > iv
+09:48:39 016:024 > ivb
+09:48:40 016:022 > ivbb
+09:48:40 016:023 > ivbbi
+09:48:41 016:022 > bilder/
+09:48:42 016:029 > skogsbakgrund.png
+09:48:51 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:48:54 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+09:48:56 015:000 > d
+09:48:56 015:001 > di
+09:48:57 015:002 > div
+09:48:57 015:000 > div
+09:49:04 015:004 >  c
+09:49:04 015:005 >  cl
+09:49:04 015:006 >  cla
+09:49:05 015:007 >  clas
+09:49:05 015:008 >  class
+09:49:07 015:010 >  class €
+09:49:08 015:010 >  class €#
+09:49:08 015:011 >  class €#f
+09:49:08 015:012 >  class €#fo
+09:49:08 015:013 >  class €#for
+09:49:08 015:014 >  class €#fore
+09:49:09 015:015 >  class €#fores
+09:49:09 015:016 >  class €#forest
+09:49:17 015:000 >  class €#forest.
+09:49:17 015:001 >  class €#forest.f
+09:49:17 015:002 >  class €#forest.fo
+09:49:18 015:003 >  class €#forest.for
+09:49:18 015:004 >  class €#forest.fore
+09:49:18 015:005 >  class €#forest.fores
+09:49:18 015:006 >  class €#forest.forest
+
+09:49:25 017:000 > f
+09:49:26 017:000 > fm
+09:49:26 017:001 > fma
+09:49:26 017:002 > fmar
+09:49:30 017:000 > margin-left: ;
+09:49:31 017:013 > 2
+09:49:31 017:014 > 25
+09:49:31 017:015 > 25p
+09:49:31 017:016 > 25px
+09:49:44 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:49:45 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+09:49:46 018:000 > h
+09:49:47 018:001 > h1
+09:49:47 018:000 > h1
+09:49:49 018:001 >  1
+09:49:49 018:000 > h1
+
+09:49:50 019:000 > f
+09:49:51 019:000 > fc
+09:49:51 019:001 > fco
+09:49:51 019:002 > fcol
+
+09:49:55 018:003 > }
+09:49:56 018:003 > {}
+
+09:49:59 019:004 > f
+09:50:00 019:004 > fc
+09:50:00 019:005 > fco
+09:50:00 019:006 > fcol
+09:50:02 019:004 > color: ;
+09:50:05 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:50:08 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/README.md
+----------------------------------------
+09:50:13 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:50:14 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:50:15 019:000 > * <code style="background:#2C4C3B; color: #FDFBF7; padding: 2px 5px; border-radius: 3px;">#2C4C3B</code> (mörkgrön)
+09:50:18 019:011 > 2
+09:50:18 019:012 > 2c
+09:50:19 019:012 > 2cC
+09:50:19 019:013 > 2cC4
+09:50:20 019:014 > 2cC4C
+09:50:21 019:015 > 2cC4C3
+09:50:21 019:016 > 2cC4C3B
+09:50:23 019:011 > 2cC4C3B#
+09:50:23 019:012 > 2cC4C3B#€
+09:50:29 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:50:31 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:50:33 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+09:50:34 021:000 > f
+09:50:35 021:000 > fh
+09:50:35 021:001 > fhe
+09:50:36 021:000 > header
+09:50:38 021:007 >  }
+09:50:39 021:007 > {}
+
+09:50:40 022:004 > f
+09:50:40 022:004 > fb
+09:50:40 022:005 > fba
+09:50:40 022:006 > fbac
+09:50:41 022:007 > fback
+09:50:41 022:004 > background-color: ;
+09:50:42 022:022 > 2C4C3B
+09:50:45 022:022 > f
+09:50:47 022:022 > f€
+09:50:47 022:022 > f€#
+09:50:48 022:022 > #2C4C3B
+
+09:50:59 023:004 > f
+09:51:00 023:004 > fi
+09:51:00 023:005 > fim
+09:51:02 023:006 > fimg
+09:51:03 023:004 > fimgf
+09:51:59 023:004 > fimgfw
+09:52:00 023:004 > fimgfwi
+09:52:00 023:004 > fimgfwiw
+09:52:01 023:005 > fimgfwiwu
+09:52:02 023:005 > fimgfwiwui
+09:52:03 023:004 > width: ;
+09:52:07 023:011 > 2
+09:52:08 023:012 > 25
+09:52:09 023:013 > 25p
+09:52:09 023:014 > 25px
+09:52:16 023:011 > 25px7
+09:52:16 023:012 > 25px75
+09:52:16 023:013 > 25px75x
+09:52:17 023:013 > 25px75xp
+09:52:17 023:014 > 25px75xpx
+
+09:52:23 024:004 > h
+09:52:23 024:005 > hi
+09:52:24 024:006 > hie
+09:52:25 024:004 > height: ;
+09:52:26 024:012 > 1
+09:52:27 024:013 > 12
+09:52:27 024:014 > 125
+09:52:27 024:015 > 125p
+09:52:27 024:016 > 125px
+
+09:52:34 023:011 > 1
+09:52:34 023:012 > 12
+09:52:34 023:013 > 125
+
+09:52:37 024:012 > 1
+09:52:37 024:013 > 19
+09:52:37 024:014 > 192
+09:52:37 024:015 > 1920
+09:52:43 024:012 > 19201
+09:52:43 024:013 > 192012
+09:52:44 024:014 > 1920125
+
+09:52:46 023:011 > 1
+09:52:46 023:012 > 19
+09:52:46 023:013 > 192
+09:52:46 023:014 > 1920
+09:52:51 023:011 > 19201
+09:52:52 023:011 > 192017
+09:52:52 023:012 > 1920175
+09:53:01 023:011 > 19201752
+09:53:01 023:012 > 192017520
+09:53:01 023:013 > 1920175200
+09:53:12 023:011 > 19201752004
+09:53:12 023:012 > 192017520040
+09:53:12 023:013 > 1920175200400
+
+09:53:42 017:000 > f
+09:54:41 017:000 > ff
+09:54:41 017:001 > ffr
+09:54:42 017:000 > ffrw
+09:54:42 017:001 > ffrwi
+09:54:44 017:000 > ffrwih
+09:54:45 017:001 > ffrwihe
+09:54:45 017:002 > ffrwihei
+09:54:45 017:000 > height: ;
+09:54:47 017:008 > 4
+09:54:47 017:009 > 40
+09:54:47 017:010 > 400
+09:54:48 017:011 > 400p
+09:54:48 017:012 > 400px
+09:54:54 017:008 > 400px1
+09:54:54 017:009 > 400px11
+09:54:55 017:009 > 400px110
+09:54:59 017:008 > 400px1105
+
+09:55:36 018:000 > b
+09:55:36 018:001 > ba
+09:55:36 018:002 > bac
+09:55:38 018:000 > background-repeat: ;
+09:55:40 018:019 > n
+09:55:40 018:020 > no
+09:55:41 018:019 > no-repeat
+
+09:55:47 019:000 > b
+09:55:47 019:001 > ba
+09:55:47 019:002 > bac
+09:55:47 019:003 > bacj
+09:55:48 019:003 > bacjk
+09:55:49 019:004 > bacjkg
+09:55:53 019:000 > background-attachment: ;
+09:55:54 019:023 > fixed
+09:56:01 019:024 > f
+09:56:02 019:023 > ff
+09:56:05 019:020 > fft
+09:56:05 019:000 > background-attachment: ;
+09:56:08 019:023 > scroll
+
+09:56:27 025:004 > b
+09:56:28 025:005 > ba
+09:56:29 025:004 > bai
+09:56:29 025:005 > baim
+09:56:31 025:006 > baima
+09:56:32 025:007 > baimag
+09:56:32 025:008 > baimage
+09:56:33 025:009 > baimage+
+09:56:34 025:009 > baimage++
+09:56:35 025:009 > baimage++-
+09:56:35 025:010 > baimage++-f
+09:56:36 025:010 > baimage++-fp
+09:56:36 025:011 > baimage++-fpo
+09:56:38 025:004 > baimage++-fpob
+09:56:38 025:005 > baimage++-fpoba
+09:56:38 025:006 > baimage++-fpobac
+09:56:38 025:007 > baimage++-fpoback
+09:56:40 025:004 > background-position: ;
+09:56:41 025:025 > r
+09:56:42 025:026 > ri
+09:56:42 025:025 > right
+09:56:43 025:030 > f
+09:56:43 025:030 > ft
+09:56:44 025:030 > ft-
+09:56:45 025:031 > ft-t
+09:56:48 025:031 > ft-t t
+09:56:48 025:032 > ft-t to
+09:56:48 025:033 > ft-t top
+09:56:49 025:031 > top
+
+09:56:55 026:004 > f
+09:56:55 026:004 > fb
+09:56:56 026:005 > fba
+09:56:56 026:006 > fbac
+09:56:57 026:004 > background-image: ;
+09:56:58 026:022 > b
+09:56:58 026:023 > bi
+09:56:59 026:024 > bil
+09:56:59 026:025 > bild
+09:56:59 026:026 > bilde
+09:57:01 026:022 > bildeu
+09:57:01 026:023 > bildeur
+09:57:01 026:024 > bildeurl
+09:57:01 026:022 > url()
+09:57:02 026:026 > b
+09:57:03 026:026 > bilder/
+09:57:04 026:033 > logga-skog.png
+09:57:05 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:57:12 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:57:17 026:026 > b
+09:57:18 026:022 > url
+09:57:19 026:022 > bilde
+09:57:20 026:004 > bac
+09:57:21 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:57:22 011:004 > <img src="bilder/logga-skog.png" alt="">
+09:57:28 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:58:13 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+09:58:18 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+09:58:18 029:000 > f
+09:58:19 029:000 > fd
+09:58:19 029:001 > fdi
+09:58:19 029:002 > fdiv
+09:58:19 029:003 > fdiv,
+09:58:20 029:005 > fdiv, p
+09:58:20 029:006 > fdiv, p1
+09:58:21 029:006 > fdiv, p1,
+09:58:22 029:008 > fdiv, p1, g
+09:58:22 029:008 > fdiv, p1, gh
+09:58:23 029:009 > fdiv, p1, gh1
+09:58:23 029:008 > h1
+09:58:26 029:011 > {}
+
+09:58:27 030:004 > f
+09:58:28 030:004 > fc
+09:58:28 030:005 > fco
+09:58:28 030:006 > fcol
+09:58:28 030:007 > fcolo
+09:58:29 030:004 > color: ;
+09:58:30 030:011 > b
+09:58:31 030:012 > br
+09:58:31 030:013 > bro
+09:58:38 030:011 > brown
+09:58:41 030:011 > bro
+09:59:02 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+09:59:03 030:011 > b
+09:59:04 030:012 > bw
+09:59:04 030:012 > bwr
+09:59:04 030:013 > bwro
+09:59:05 030:011 > brown
+09:59:12 030:011 > rgb(137, 45, 45)
+09:59:14 030:011 > rgb(137, 45, 45)
+09:59:17 030:011 > rgb(50, 24, 24)
+09:59:22 030:011 > rgb(59, 24, 24)
+09:59:23 030:011 > rgb(68, 26, 26)
+09:59:23 030:011 > rgb(73, 31, 31)
+
+10:00:03 026:004 > p
+10:00:03 026:005 > pa
+10:00:04 026:004 > padding: ;
+10:00:05 026:013 > 7
+10:00:05 026:014 > 70
+10:00:05 026:015 > 70x
+10:00:08 026:015 > 70xp
+10:00:08 026:016 > 70xpx
+10:00:21 026:013 > 70xpx1
+10:00:21 026:014 > 70xpx14
+10:00:21 026:015 > 70xpx140
+10:00:26 026:013 > 70xpx1401
+10:00:26 026:014 > 70xpx14010
+10:00:31 026:018 > 70xpx14010¨
+10:00:31 026:018 > ¨w
+
+10:00:34 027:004 > w
+10:00:34 027:005 > wi
+10:00:35 027:004 > width: ;
+10:00:39 027:011 > 4
+10:00:40 027:012 > 40
+10:00:40 027:013 > 40p
+10:00:40 027:014 > 40px
+10:00:41 027:011 > 40px
+10:00:49 027:011 > 1
+10:00:49 027:012 > 10
+10:00:51 027:011 > 101
+10:00:51 027:012 > 1012
+10:00:51 027:013 > 10120
+10:00:57 027:012 > 101205
+10:01:01 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:01:03 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:01:06 034:000 > i
+10:01:06 034:001 > im
+10:01:07 034:002 > img
+10:01:07 034:000 > img
+10:01:09 034:004 > {}
+
+10:01:10 035:004 > f
+10:01:12 035:004 > fm
+10:01:12 035:005 > fma
+10:01:12 035:006 > fmar
+10:01:13 035:004 > margin-right: ;
+10:01:15 035:018 > 1
+10:01:15 035:019 > 12
+10:01:16 035:020 > 120
+10:01:16 035:021 > 120p
+10:01:16 035:022 > 120px
+10:01:23 035:011 > 120pxl
+10:01:23 035:012 > 120pxle
+10:01:24 035:013 > 120pxlef
+10:01:24 035:014 > 120pxleft
+10:01:35 035:011 > right
+10:01:46 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:01:48 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:01:51 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:02:02 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:02:23 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+10:02:26 010:007 > d
+10:02:30 010:007 > dh
+10:02:30 010:008 > dh.
+10:02:30 010:009 > dh.t
+10:02:30 010:010 > dh.te
+10:02:32 010:008 > dh.tet
+10:02:32 010:009 > dh.tete
+10:02:32 010:010 > dh.tetex
+10:02:32 010:011 > dh.tetext
+10:02:35 010:011 > dh.tetext  t
+10:02:37 010:012 > dh.tetext  tf
+
+10:02:40 021:000 > h
+
+10:02:42 020:000 > h
+10:02:43 020:001 > ht
+10:02:43 020:002 > hte
+10:02:43 020:003 > htex
+10:02:43 020:004 > htext
+
+10:02:49 010:011 > y
+10:02:49 010:011 > yt
+10:02:52 010:007 > ytd
+10:02:52 010:008 > ytdi
+10:02:52 010:009 > ytdiv
+10:02:53 010:007 > <div></div>
+10:02:55 010:012 >  c
+10:02:55 010:013 >  cl
+10:02:55 010:014 >  cla
+10:02:55 010:015 >  clas
+10:02:55 010:012 > class=""
+10:02:57 010:019 > h
+10:02:57 010:020 > ht
+10:02:57 010:021 > hte
+10:02:57 010:022 > htex
+10:02:57 010:023 > htext
+10:03:04 010:026 > Hem Tälten Vandring Bad Restaurang Bokning English
+10:03:18 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/README.md
+----------------------------------------
+10:03:19 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:03:20 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:03:20 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:03:22 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/README.md
+----------------------------------------
+10:03:23 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:03:26 035:018 > 120px
+10:03:27 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:03:28 011:000 > Hem Tälten Vandring Bad Restaurang Bokning English
+10:03:30 010:012 > clas
+10:03:31 010:007 > div
+10:03:32 010:007 > htext
+10:03:56 010:007 > h
+10:03:57 010:008 > h2
+10:03:57 010:007 > <h2></h2>
+10:04:03 010:011 > Hem Tälten Vandring Bad Restaurang Bokning English
+10:04:14 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:04:17 038:000 > h
+10:04:17 038:001 > h2
+10:04:17 038:000 > h2
+10:04:20 038:003 >  }
+10:04:21 038:003 > {}
+
+10:04:44 039:004 > p
+10:04:44 039:005 > pa
+10:04:44 039:006 > pad
+10:04:50 039:007 > padf
+10:04:50 039:007 > padfd
+10:04:51 039:004 > padding-bottom: ;
+10:04:52 039:020 > 1
+10:04:52 039:021 > 10
+10:04:52 039:022 > 10p
+10:04:52 039:023 > 10px
+10:04:59 039:012 > 10pxl
+10:04:59 039:013 > 10pxle
+10:04:59 039:014 > 10pxlef
+10:04:59 039:015 > 10pxleft
+10:05:01 039:020 > 10pxleft0
+10:05:07 039:018 > 10pxleft02
+
+10:05:36 027:004 > f
+
+10:05:42 026:011 > 4
+10:05:43 026:012 > 40
+10:05:54 026:011 > 15
+10:05:56 026:011 > 4
+10:05:56 026:012 > 40
+
+10:05:58 035:000 > w
+10:05:59 035:001 > wi
+10:06:00 035:000 > width: ;
+10:06:01 035:007 > 1
+10:06:01 035:008 > 15
+10:06:01 035:009 > 150
+10:06:01 035:010 > 150p
+10:06:02 035:011 > 150px
+
+10:06:07 026:011 > 6
+10:06:07 026:012 > 60
+10:06:07 026:013 > 600
+10:06:14 026:011 > 6001
+10:06:14 026:012 > 60019
+10:06:14 026:013 > 600192
+10:06:19 026:013 > 6001920
+10:06:24 026:012 > 60019207
+10:06:24 026:013 > 600192070
+10:06:30 026:012 > 6001920709
+10:06:30 026:013 > 60019207092
+10:06:30 026:014 > 600192070920
+
+10:06:36 027:004 > h
+10:06:36 027:005 > hi
+10:06:37 027:004 > height: ;
+10:06:38 027:012 > 2
+10:06:38 027:013 > 25
+10:06:39 027:014 > 25p
+10:06:39 027:015 > 25px
+10:06:43 027:012 > 25px7
+10:06:43 027:013 > 25px75
+10:06:43 027:014 > 25px750
+10:06:43 027:015 > 25px750x
+10:06:45 027:014 > 25px750xp
+10:06:45 027:015 > 25px750xpx
+10:06:47 027:012 > 75px
+10:06:51 027:012 > 1
+10:06:51 027:013 > 12
+10:06:51 027:014 > 125
+
+10:07:12 036:004 > m
+10:07:13 036:005 > ma
+10:07:13 036:006 > mar
+10:07:14 036:004 > margin-bottom: ;
+10:07:15 036:019 > 2
+10:07:15 036:020 > 25
+10:07:15 036:021 > 25p
+10:07:15 036:022 > 25px
+10:07:21 036:004 > mar
+10:07:25 036:004 > p
+10:07:25 036:005 > pa
+10:07:27 036:004 > padding-bottom: ;
+10:07:27 036:020 > 5
+10:07:27 036:021 > 50
+10:07:27 036:022 > 50p
+10:07:28 036:023 > 50px
+10:07:33 036:020 > 50px2
+10:07:33 036:021 > 50px25
+10:07:37 036:012 > 50px25t
+10:07:37 036:013 > 50px25to
+10:07:37 036:014 > 50px25top
+10:07:38 036:004 > padding-top
+10:07:43 036:017 > 5
+10:07:47 036:017 > 5+
+10:07:47 036:018 > 5+5
+10:07:48 036:017 > 5+5-
+10:07:48 036:018 > 5+5-5
+10:07:53 036:019 > 5+5-50
+10:07:57 036:017 > 5+5-509
+10:08:02 036:012 > 5+5-509b
+10:08:03 036:013 > 5+5-509bo
+10:08:04 036:004 > padding-bottom
+10:08:08 036:020 > 2
+10:08:08 036:021 > 25
+10:08:12 036:020 > 255
+10:08:12 036:021 > 2550
+
+10:08:17 037:004 > f
+10:08:17 037:004 > fm
+10:08:18 037:005 > fma
+10:08:21 037:004 > margin-top: ;
+10:08:22 037:016 > 5
+10:08:22 037:017 > 5p
+10:08:22 037:018 > 5px
+10:08:27 037:016 > 5px1
+10:08:27 037:017 > 5px10
+10:08:27 037:018 > 5px10p
+10:08:27 037:019 > 5px10px
+10:08:31 037:011 > 5px10pxb
+10:08:32 037:012 > 5px10pxbo
+10:08:32 037:013 > 5px10pxbot
+10:08:33 037:004 > margin-bottom
+10:08:35 037:019 > 2
+10:08:35 037:020 > 25
+10:08:39 037:019 > 255
+10:08:39 037:020 > 2550
+10:08:55 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:08:57 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:08:59 039:004 > f
+10:09:00 039:004 > fm
+10:09:00 039:005 > fma
+10:09:00 039:006 > fmar
+10:09:03 039:004 > margin-left: ;
+10:09:05 039:017 > 4
+10:09:05 039:018 > 40
+10:09:05 039:019 > 400
+10:09:05 039:020 > 400o
+10:09:05 039:021 > 400ox
+10:09:06 039:020 > 400oxp
+10:09:06 039:021 > 400oxpx
+10:09:12 039:017 > 400oxpx6
+10:09:17 039:023 > 400oxpx6m
+10:09:17 039:024 > 400oxpx6ma
+
+10:09:18 040:004 > m
+10:09:18 040:005 > ma
+10:09:18 040:006 > mar
+10:09:20 040:004 > margin-top: ;
+10:09:20 040:016 > 2
+10:09:20 040:017 > 25
+10:09:20 040:018 > 25p
+10:09:20 040:019 > 25px
+10:09:25 040:016 > 25px4
+10:09:26 040:016 > 25px43
+10:09:39 040:001 > margin-top: 35px;
+10:09:57 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:09:57 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:09:58 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:10:01 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:10:04 019:000 > m
+10:10:04 019:001 > ma
+10:10:04 019:002 > mar
+10:10:06 019:000 > margin-left: ;
+10:10:06 019:013 > 0
+10:10:07 019:014 > 05
+10:10:07 019:013 > 055
+10:10:07 019:014 > 0550
+10:10:07 019:015 > 0550p
+10:10:08 019:016 > 0550px
+
+10:10:14 020:000 > p
+10:10:14 020:001 > pa
+10:10:25 020:000 > pab
+10:10:25 020:001 > pabo
+10:10:26 020:002 > pabox
+10:10:26 020:000 > box-sizing: ;
+10:10:29 020:012 > f
+
+10:11:48 043:000 > d
+10:11:49 043:001 > di
+10:11:49 043:002 > div
+10:11:49 043:000 > div
+10:11:51 043:003 > ,
+10:11:51 043:005 > , p
+10:11:51 043:006 > , p1
+10:11:52 043:007 > , p1,
+10:11:54 043:006 > , p1, .
+10:11:54 043:007 > , p1, .,
+10:11:55 043:006 > , p1, .,,
+10:11:55 043:008 > , p1, .,, h
+10:11:56 043:009 > , p1, .,, h1
+10:12:00 043:011 > {}
+10:12:01 044:004 > margin-left: 50px;
+10:12:17 044:004 > margin-left: 50px;
+
+10:12:33 042:004 > c
+10:12:33 042:005 > co
+10:12:33 042:006 > col
+10:12:33 042:007 > colo
+10:12:33 042:004 > color: ;
+10:12:34 042:011 > w
+10:12:34 042:012 > wh
+10:12:35 042:013 > whi
+10:12:35 042:011 > white
+
+10:13:03 017:008 > 1
+10:13:03 017:009 > 10
+10:13:08 017:008 > 105
+10:13:30 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+10:13:33 018:006 > f
+
+10:13:33 019:000 > f
+10:13:34 019:001 > fo
+10:13:35 019:000 > <footer></footer>
+10:13:53 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+10:13:54 020:004 > h
+10:13:54 020:005 > h3
+10:13:55 020:004 > <h3></h3>
+10:13:55 020:008 > SKOGSGLÄNTAN GLAMPING Box 55 314 21 Hyltebruk
+10:14:03 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:14:07 047:000 > f
+10:14:07 047:001 > fo
+10:14:07 047:002 > foo
+10:14:08 047:003 > foot
+10:14:08 047:004 > foote
+10:14:08 047:000 > footer
+10:14:09 047:007 > {}
+
+10:14:11 048:004 > b
+10:14:11 048:005 > ba
+10:14:11 048:006 > bac
+10:14:11 048:007 > back
+10:14:11 048:004 > background-color: ;
+10:14:13 048:022 > #2C4C3B
+
+10:14:18 049:004 > c
+10:14:18 049:005 > co
+10:14:18 049:006 > col
+10:14:18 049:007 > colo
+10:14:18 049:004 > color: ;
+10:14:20 049:011 > w
+10:14:22 049:011 > white
+
+10:14:29 050:004 > p
+10:14:31 050:004 > po
+10:14:31 050:005 > poa
+10:14:32 050:000 > poao
+10:14:32 050:001 > poaoa
+
+10:14:38 052:000 > h
+10:14:38 052:001 > h2
+10:14:39 052:000 > h2
+10:14:40 052:003 > {}
+
+10:14:41 053:004 > f
+10:14:45 053:004 > fw
+10:14:45 053:005 > fwi
+10:14:46 053:004 > width: ;
+10:14:47 053:011 > 2
+10:14:47 053:012 > 25
+10:14:47 053:013 > 25p
+10:14:47 053:014 > 25px
+10:14:54 053:011 > 25px1
+10:14:54 053:012 > 25px10
+
+10:15:00 050:000 > h
+10:15:00 050:001 > he
+10:15:00 050:000 > height: ;
+10:15:01 050:008 > 1
+10:15:01 050:009 > 12
+10:15:02 050:010 > 125
+10:15:02 050:011 > 125x
+10:15:02 050:012 > 125xo
+10:15:03 050:011 > 125xop
+10:15:03 050:012 > 125xopx
+10:15:12 050:004 > 125xopxf
+10:15:13 050:004 > 125xopxfm
+10:15:14 050:005 > 125xopxfma
+10:15:15 050:004 > margin-top: ;
+10:15:16 050:016 > 6
+10:15:16 050:017 > 62
+10:15:16 050:018 > 625
+10:15:16 050:019 > 625p
+10:15:17 050:020 > 625px
+10:15:21 050:016 > 625px4
+10:15:26 050:016 > 625px41
+10:15:28 050:017 > 625px410
+10:15:35 050:016 > 625px4104
+10:15:42 050:016 > 625px41043
+10:15:48 050:016 > 625px410432
+
+10:15:56 053:001 > 3
+10:15:57 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:15:59 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:16:06 051:008 > 7
+10:16:16 051:008 > 72
+10:16:16 051:008 > 721
+
+10:16:18 053:001 > 3
+
+10:16:21 050:016 > 1
+10:16:21 050:017 > 12
+10:16:40 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+10:17:02 021:004 > h
+10:17:02 021:005 > h3
+10:17:03 021:004 > <h3></h3>
+10:17:16 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:17:16 021:008 > BESÖKSADRESS: Mossvägen 2, Hyltebruk
+10:17:26 021:006 > 4
+
+10:18:03 020:041 > ,
+10:18:24 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:18:26 055:004 > m
+10:18:26 055:005 > ma
+10:18:26 055:006 > mar
+10:18:29 055:007 > marg
+10:18:29 055:008 > margi
+10:18:30 055:009 > margin
+10:18:31 055:004 > margin-top: ;
+10:18:31 055:016 > 2
+10:18:31 055:017 > 25
+10:18:31 055:018 > 25x
+10:18:32 055:019 > 25xo
+10:18:32 055:018 > 25xop
+10:18:32 055:019 > 25xopx
+10:18:36 055:016 > 25xopx5
+10:18:46 055:004 > 25xopx5o
+10:18:46 055:004 > 25xopx5op
+10:18:46 055:005 > 25xopx5opa
+10:18:46 055:006 > 25xopx5opad
+10:18:46 055:007 > 25xopx5opadd
+10:18:47 055:008 > 25xopx5opaddi
+10:18:47 055:009 > 25xopx5opaddin
+10:18:47 055:010 > 25xopx5opadding
+10:18:48 055:004 > padding
+10:18:49 055:011 > +
+10:18:49 055:012 > +t
+10:18:49 055:013 > +to
+10:18:50 055:011 > +toä
+10:18:51 055:011 > +toä-
+10:18:51 055:012 > +toä-t
+10:18:51 055:013 > +toä-to
+10:18:51 055:014 > +toä-top
+10:18:51 055:015 > +toä-topp
+10:18:58 055:017 > +toä-topp2
+
+10:19:03 056:004 > p
+10:19:03 056:005 > pa
+10:19:03 056:006 > pad
+10:19:04 056:004 > padding: ;
+10:19:04 056:013 > 2
+10:19:04 056:014 > 25
+10:19:04 056:015 > 25p
+10:19:04 056:016 > 25px
+
+10:19:24 052:000 > f
+10:19:25 052:000 > fp
+10:19:25 052:001 > fpo
+10:19:27 052:001 > fpos
+10:19:28 052:002 > fposs
+10:19:29 052:000 > position:
+10:19:31 052:010 > fixed
+10:19:37 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:19:45 021:000 > <h3>SKOGSGLÄNTAN GLAMPING Box55 31421,Hyltebruk</h3>
+10:19:50 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:19:52 052:000 > pos
+10:20:11 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+10:20:16 020:043 > 3
+10:20:39 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:20:46 019:000 > p
+10:20:46 019:001 > pa
+10:20:47 019:000 > padding: ;
+10:20:48 019:009 > 4
+10:20:48 019:010 > 40
+10:20:48 019:011 > 400
+10:20:49 019:012 > 400p
+10:20:49 019:013 > 400px
+10:21:30 019:000 > 400pxf
+10:21:32 019:000 > 400pxff
+10:21:32 019:000 > 400pxffw
+10:21:32 019:001 > 400pxffwi
+10:21:33 019:000 > width: ;
+10:21:33 019:007 > 1
+10:21:33 019:008 > 10
+10:21:33 019:009 > 100
+10:21:33 019:010 > 100p
+10:21:34 019:010 > 100p€
+10:21:35 019:010 > 100p€#
+10:21:35 019:010 > 100p€#%
+10:21:42 019:008 > 100p€#%0
+10:21:43 019:009 > 100p€#%00
+10:21:43 019:010 > 100p€#%000
+10:21:43 019:011 > 100p€#%000p
+10:21:43 019:012 > 100p€#%000px
+
+10:21:55 018:000 > b
+10:21:55 018:001 > ba
+10:21:58 018:000 > background-repeat: ;
+10:22:03 018:019 > no-repeat
+
+10:22:06 019:000 > b
+10:22:06 019:001 > bl
+10:22:07 019:002 > bla
+10:22:08 019:001 > blaa
+10:22:08 019:002 > blaac
+10:22:09 019:003 > blaack
+10:22:13 019:000 > background-size: ;
+10:22:14 019:017 > 1
+10:22:14 019:018 > 10
+10:22:14 019:019 > 100
+10:22:14 019:020 > 100p
+10:22:14 019:021 > 100px
+10:22:15 019:020 > 100px€
+10:22:16 019:020 > 100px€#
+10:22:16 019:020 > 100px€#"
+10:22:17 019:020 > 100px€#"%
+10:22:20 019:020 > 100px€#"%0
+10:22:21 019:021 > 100px€#"%0p
+10:22:21 019:022 > 100px€#"%0px
+10:22:26 019:017 > 100px€#"%0px5
+10:22:34 019:017 > 100px€#"%0px51
+10:22:34 019:018 > 100px€#"%0px510
+10:22:34 019:019 > 100px€#"%0px5100
+10:22:35 019:020 > 100px€#"%0px5100€
+10:22:35 019:020 > 100px€#"%0px5100€#
+10:22:36 019:020 > 100px€#"%0px5100€#"
+10:22:37 019:020 > 100px€#"%0px5100€#"%
+10:22:56 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:23:03 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:23:10 059:000 > d
+10:23:10 059:001 > dv
+10:23:11 059:001 > dvi
+10:23:11 059:002 > dviv
+10:23:12 059:000 > div
+10:23:13 059:004 > {}
+
+10:23:14 060:004 > f
+10:23:15 060:004 > fg
+10:23:15 060:005 > fgf
+10:23:15 060:006 > fgfo
+10:23:16 060:004 > fgfof
+10:23:16 060:005 > fgfofo
+10:23:16 060:006 > fgfofob
+10:23:19 060:004 > font-style: ;
+10:23:21 060:016 > s
+10:23:22 060:017 > si
+10:23:22 060:018 > sim
+10:23:23 060:016 > simb
+10:23:23 060:017 > simbo
+10:23:23 060:018 > simbol
+10:23:23 060:019 > simbold
+10:23:29 060:013 > simbolde
+10:23:31 060:004 > font-style: ;
+10:23:34 060:016 > oblique
+10:23:43 060:014 > e
+10:23:43 060:013 > ee
+10:23:44 060:004 > font-style: ;
+10:23:46 060:016 > inherit
+10:23:51 060:016 > f
+10:23:53 060:013 > fe
+10:23:53 060:004 > font-style: ;
+10:23:55 060:016 > unset
+10:24:00 060:013 > e
+10:24:00 060:004 > font-style: ;
+10:24:04 060:008 > f
+10:24:05 060:007 > ft
+10:24:09 060:004 > font-family: ;
+10:24:12 060:017 > Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+10:24:19 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+10:24:35 014:001 > h
+10:24:35 014:002 > h3
+10:24:36 014:002 > h34
+
+10:24:38 015:001 > h
+10:24:38 015:002 > h5
+10:24:38 015:002 > h54
+10:24:41 015:030 > h4
+10:24:42 014:051 > h4
+10:24:43 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:24:46 059:000 > h
+10:24:46 059:001 > h4
+10:24:46 059:000 > h4
+
+10:24:54 046:010 > ,
+10:24:55 046:012 > , h
+10:24:55 046:013 > , h4
+10:24:55 046:012 > h4
+
+10:25:02 048:004 > m
+10:25:02 048:005 > ma
+10:25:02 048:006 > mar
+10:25:04 048:004 > margin-top: ;
+10:25:04 048:016 > 5
+10:25:04 048:017 > 50
+10:25:05 048:018 > 50p
+10:25:05 048:019 > 50px
+10:25:19 048:016 > 50px1
+10:25:19 048:017 > 50px15
+10:25:19 048:018 > 50px15p
+10:25:20 048:019 > 50px15px
+10:25:20 048:016 > 15px
+10:25:27 048:017 > 0
+
+10:27:01 019:000 > b
+10:27:01 019:001 > ba
+10:27:01 019:002 > bac
+10:27:32 019:003 > bacf
+10:27:33 019:003 > bacfc
+10:27:33 019:004 > bacfck
+10:27:37 019:000 > background-attachment: ;
+10:27:38 019:023 > fixed
+
+10:31:56 056:004 > m
+10:31:57 056:005 > ma
+10:31:57 056:006 > mar
+10:31:59 056:004 > margin-right: ;
+10:32:00 056:018 > 1
+10:32:00 056:019 > 10
+10:32:00 056:020 > 10p
+10:32:00 056:021 > 10px
+10:32:05 056:018 > 10px2
+10:32:05 056:019 > 10px20
+10:32:11 056:005 > 10px20f
+10:32:12 056:004 > 10px20ft
+10:32:12 056:005 > 10px20fte
+10:32:16 056:006 > 10px20ftex
+10:32:16 056:007 > 10px20ftext
+10:32:17 056:008 > 10px20ftext+
+10:32:18 056:008 > 10px20ftext+-
+10:32:50 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:32:53 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:32:58 045:004 > f
+10:32:58 045:004 > fo
+10:32:59 045:005 > foa
+10:32:59 045:004 > foap
+10:32:59 045:005 > foapa
+10:33:01 045:004 > padding: ;
+10:33:01 045:013 > 1
+10:33:01 045:014 > 15
+10:33:01 045:015 > 15p
+10:33:02 045:016 > 15px
+10:33:41 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:34:43 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:35:07 055:013 > 5
+10:35:07 055:014 > 50
+10:35:08 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:35:18 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:35:19 055:013 > 25
+
+10:35:28 059:011 > 2
+10:35:28 059:012 > 25
+10:35:31 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:35:35 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:35:37 059:011 > 25 5
+10:35:37 059:012 > 25 50
+10:35:42 059:011 > 25 501
+10:35:42 059:012 > 25 5015
+10:35:42 059:013 > 25 50150
+10:35:47 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:36:00 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:36:02 059:012 > 25 50150  7
+10:36:02 059:013 > 25 50150  75
+10:36:16 059:013 > 25 50150  750
+10:36:21 059:012 > 25 50150  7506
+10:36:21 059:013 > 25 50150  75060
+10:36:32 059:012 > 25 50150  750607
+10:36:32 059:013 > 25 50150  7506075
+10:36:46 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:37:07 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:37:15 059:012 > 25 50150  75060755
+10:37:15 059:013 > 25 50150  750607550
+10:37:20 059:012 > 25 50150  7506075502
+10:37:20 059:013 > 25 50150  75060755025
+10:37:26 059:011 > 25 50150  750607550252
+10:37:26 059:012 > 25 50150  7506075502520
+10:37:26 059:013 > 25 50150  75060755025200
+10:37:32 059:011 > 25 50150  750607550252003
+10:37:32 059:012 > 25 50150  7506075502520030
+10:37:32 059:013 > 25 50150  75060755025200300
+10:37:40 059:011 > 25 50150  750607550252003002
+10:37:40 059:012 > 25 50150  7506075502520030025
+10:37:40 059:013 > 25 50150  75060755025200300250
+10:37:46 059:011 > 25 50150  750607550252003002501
+10:37:46 059:012 > 25 50150  7506075502520030025016
+10:37:46 059:013 > 25 50150  75060755025200300250167
+10:37:47 059:012 > 25 50150  750607550252003002501677
+10:37:47 059:013 > 25 50150  7506075502520030025016775
+10:38:15 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:38:19 021:004 > <h3>SKOGSGLÄNTAN GLAMPING Box 55 314 21 Hyltebruk</h3>
+10:38:21 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:38:32 021:007 > 1
+10:38:32 021:008 > 19
+10:38:32 021:009 > 192
+10:38:33 021:010 > 1920
+10:38:45 021:008 > 19200
+10:38:46 021:009 > 192000
+10:38:50 021:008 > 1920005
+10:38:50 021:009 > 19200050
+10:38:54 021:008 > 192000502
+10:38:55 021:009 > 1920005025
+10:38:58 021:008 > 19200050253
+10:38:58 021:009 > 192000502535
+10:39:03 021:008 > 1920005025354
+10:39:03 021:009 > 19200050253545
+10:39:03 021:010 > 192000502535450
+
+10:39:12 017:008 > 7
+10:39:35 017:009 > 75
+10:39:43 017:009 > 750
+10:39:48 017:008 > 7506
+10:39:48 017:009 > 75068
+10:40:05 027:004 > padding: 10px;
+
+10:40:14 021:000 > b
+10:40:14 021:001 > ba
+10:40:16 021:000 > background-position: ;
+10:40:17 021:021 > m
+10:40:17 021:022 > mi
+10:40:18 021:023 > mid
+10:40:18 021:024 > midd
+10:40:18 021:025 > middl
+10:40:19 021:026 > middle
+10:40:23 021:021 > middlek
+10:40:23 021:022 > middleke
+10:40:23 021:023 > middlekef
+10:40:23 021:024 > middlekeft
+10:40:24 021:021 > middlekeftl
+10:40:24 021:022 > middlekeftle
+10:40:24 021:023 > middlekeftlef
+10:40:24 021:024 > middlekeftleft
+10:41:00 021:000 > middlekeftleftm
+10:41:00 021:001 > middlekeftleftmq
+10:41:01 021:001 > middlekeftleftmqa
+10:41:01 021:002 > middlekeftleftmqar
+10:41:02 021:000 > margin-left: ;
+10:41:03 021:013 > 0
+10:41:03 021:014 > 0p
+10:41:03 021:015 > 0px
+
+10:41:11 022:000 > m
+10:41:11 022:001 > ma
+10:41:11 022:002 > mar
+10:41:12 022:000 > margin-top: ;
+10:41:12 022:012 > 0
+10:41:12 022:013 > 0p
+10:41:12 022:014 > 0px
+10:41:34 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:41:40 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:41:43 035:004 > m
+10:41:43 035:005 > ma
+10:41:43 035:006 > mar
+10:41:45 035:004 > margin-top: ;
+10:41:46 035:016 > 5
+10:41:46 035:017 > 50
+10:41:46 035:018 > 50p
+10:41:46 035:019 > 50px
+10:41:57 035:016 > 50px1
+10:42:05 035:004 > mar
+10:42:25 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+10:42:32 013:004 > s
+10:42:33 013:005 > se
+10:42:33 013:006 > sec
+
+10:44:11 022:007 > 4
+10:44:14 022:057 > 44
+10:44:39 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:44:44 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:45:37 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:45:54 022:000 > 44b
+10:45:55 022:001 > 44ba
+10:45:55 022:002 > 44bac
+10:45:56 022:000 > background-position: ;
+10:45:57 022:021 > f
+10:45:58 022:022 > fi
+10:45:58 022:023 > fix
+10:45:58 022:024 > fixe
+10:45:58 022:025 > fixed
+
+10:46:08 050:004 > m
+10:46:08 050:005 > ma
+10:46:08 050:006 > mar
+10:46:09 050:004 > margin-top: ;
+10:46:10 050:016 > 5
+10:46:10 050:017 > 50
+10:46:10 050:018 > 50p
+10:46:10 050:019 > 50px
+10:46:14 050:004 > mar
+
+10:46:20 022:000 > m
+10:46:21 022:001 > ma
+10:46:22 022:000 > mab
+10:46:22 022:001 > maba
+10:46:22 022:002 > mabac
+10:46:22 022:003 > maback
+10:46:51 022:004 > mabackg
+10:46:54 022:000 > background-attachment: ;
+10:46:54 022:023 > fixed
+10:47:09 022:000 > backg
+10:48:35 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:48:47 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:48:56 049:004 > m
+10:48:56 049:005 > ma
+10:48:56 049:006 > mar
+10:48:57 049:004 > margin-top: ;
+10:48:59 049:016 > 5
+10:49:00 049:016 > 52
+10:49:00 049:017 > 525
+10:49:00 049:018 > 525p
+10:49:00 049:019 > 525px
+10:49:06 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:49:13 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:49:19 049:016 > 525px1
+10:49:20 049:017 > 525px10
+10:49:58 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:50:01 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:50:03 033:000 > g
+10:50:05 033:000 > gh
+10:50:05 033:001 > gh4
+
+10:50:15 049:004 > m
+10:50:15 049:005 > ma
+10:50:15 049:006 > mar
+10:50:17 049:004 > margin-top: ;
+10:50:19 049:016 > 2
+10:50:19 049:017 > 25
+10:50:20 049:018 > 25p
+10:50:20 049:019 > 25px
+10:50:32 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+
+10:50:43 013:000 > s
+10:50:43 013:001 > se
+10:50:44 013:000 > <section></section>
+10:50:50 019:000 > </section>
+10:50:52 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:50:59 015:000 > </section>
+10:51:35 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:51:38 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+10:51:54 035:004 > font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+10:52:39 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:55:27 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/script.js
+----------------------------------------
+10:55:27 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
+10:55:37 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/style.css
+----------------------------------------
+
+10:56:03 050:000 > m
+10:56:03 050:001 > ma
+10:56:03 050:002 > mar
+10:56:05 050:000 > margin-top:
+10:56:06 050:012 > 2
+10:56:06 050:013 > 25
+10:56:06 050:014 > 250
+10:56:07 050:014 > 250p
+10:56:07 050:015 > 250px
+10:56:14 050:014 > 250px0
+10:56:15 050:000 > mar
+10:56:31 050:004 > m
+10:56:31 050:005 > ma
+10:56:31 050:006 > mar
+10:56:37 050:004 > margin-top: ;
+10:56:38 050:016 > 2
+10:56:38 050:017 > 25
+10:56:38 050:018 > 25p
+10:56:39 050:019 > 25px
+10:58:02 Document switched to: /Users/alan.cherman/github-classroom/WEUWEB01-TE23A-TETEK23-ORG/prov-4a3-ChermanAlan/index.html
+----------------------------------------
